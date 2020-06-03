@@ -16,7 +16,7 @@
 
 - - -
 
-### Level 2: More Data (Optional)
+### Level 2: Tectonic Data
 
 The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
