@@ -1,4 +1,7 @@
 # leaflet-challenge
+
+### Level 1: Basic Visualization
+
 1. **Get your data set**
 
    We used USGS earthquake data from (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick 'All Earthquakes from the Past 7 Days' to visualize. We used the URL of this JSON to pull in the data for our visualization.
