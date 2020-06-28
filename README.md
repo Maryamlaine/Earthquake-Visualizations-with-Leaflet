@@ -22,6 +22,9 @@ We plot a second data set on your map to illustrate the relationship between tec
 
 * Tectonic data has been added to earthquake layer in addition to grayscale and streetmap base maps. 
 
-Click [here](https://maryamlaine.github.io/leaflet-challenge/Heatmap/index.html) to Deploy Heatmap, 
-[here](https://maryamlaine.github.io/leaflet-challenge/Leaflet-Step-1/index.html) to Deploy Earthquake Light and 
-[here](https://maryamlaine.github.io/leaflet-challenge/Leaflet-Step-2/index.html) to Deploy Tectonic Plates.
+Click [here](https://maryamlaine.github.io/
+Earthquake-Visualizations-with-Leaflet/Heatmap/index.html) to Deploy Heatmap, 
+[here](https://maryamlaine.github.io/
+Earthquake-Visualizations-with-Leaflet/Leaflet-Step-1/index.html) to Deploy Earthquake Light and 
+[here](https://maryamlaine.github.io/
+Earthquake-Visualizations-with-Leaflet/Leaflet-Step-2/index.html) to Deploy Tectonic Plates.
