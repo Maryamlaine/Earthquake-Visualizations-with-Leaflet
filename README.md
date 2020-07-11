@@ -18,7 +18,7 @@
 
 ### Level 2: Tectonic Data
 
-We plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at [here] <https://github.com/fraxen/tectonicplates>.
+We plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
 * Tectonic data has been added to earthquake layer in addition to grayscale and streetmap base maps. 
 
