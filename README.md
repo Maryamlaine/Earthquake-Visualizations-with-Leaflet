@@ -13,6 +13,7 @@
    * Data markers used to show the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color. In addition, we have pop ups with more information about each earthquake. 
 
    * A legend is used to show the different earthquake magnitudes.
+   
 ![earthquake_magnitude](image/earthquake_mag.jpg)
 
 - - -
