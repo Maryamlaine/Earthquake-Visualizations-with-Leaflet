@@ -13,6 +13,7 @@
    * Data markers used to show the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color. In addition, we have pop ups with more information about each earthquake. 
 
    * A legend is used to show the different earthquake magnitudes.
+![earthquake_magnitude](image/earthquake_mag.jpg)
 
 - - -
 
@@ -22,6 +23,12 @@ We plot a second data set on your map to illustrate the relationship between tec
 
 * Tectonic data has been added to earthquake layer in addition to grayscale and streetmap base maps. 
 
+![tectonic_plates](image/tectonic.jpg)
+
 Click [here](https://maryamlaine.github.io/Earthquake-Visualizations-with-Leaflet/Heatmap/index.html) to Deploy Heatmap, 
 [here](https://maryamlaine.github.io/Earthquake-Visualizations-with-Leaflet/Leaflet-Step-1/index.html) to Deploy Earthquake Light and 
 [here](https://maryamlaine.github.io/Earthquake-Visualizations-with-Leaflet/Leaflet-Step-2/index.html) to Deploy Tectonic Plates.
+
+### Heatmap
+
+![heatmap](image/heatmap.jpg)
