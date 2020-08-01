@@ -25,10 +25,6 @@ We plot a second data set on your map to illustrate the relationship between tec
 
 ![tectonic_plates](image/tectonic.jpg)
 
-Click [here](https://maryamlaine.github.io/Earthquake-Visualizations-with-Leaflet/Heatmap/index.html) to Deploy Heatmap, 
-[here](https://maryamlaine.github.io/Earthquake-Visualizations-with-Leaflet/Leaflet-Step-1/index.html) to Deploy Earthquake Light and 
-[here](https://maryamlaine.github.io/Earthquake-Visualizations-with-Leaflet/Leaflet-Step-2/index.html) to Deploy Tectonic Plates.
-
 ### Heatmap
 
 ![heatmap](image/heatmap.jpg)
