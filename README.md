@@ -1,4 +1,4 @@
-# leaflet-challenge
+# Earthquake_Visualizations_Leaflet
 
 ### Level 1: Basic Visualization
 
